@@ -7,4 +7,6 @@ public class merge {
     change 5
     change 6
     change 7
+
+    here we have a line from the right laptop
 }
