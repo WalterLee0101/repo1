@@ -8,5 +8,6 @@ public class merge {
     change 6
     change 7
 
-    here we have a line from the left laptop 
+    here we have a line from the left laptop
+    here we have a line from the right laptop
 }
