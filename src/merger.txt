@@ -3,3 +3,5 @@ here we have a first line
 
 here we have a line at height three from the left computer 
 here we have a line at height three from the right computer
+
+line for GitDesktop
